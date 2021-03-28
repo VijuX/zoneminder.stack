@@ -1,3 +1,11 @@
+[Forked from: https://github.com/dlandon/zoneminder.machine.learning]
+
+The aim of this solution is to simplify the great and featured docker solution of dlandon for having Docker + ES server (without machine learning). Machine learning will be provided by another solution "mlapi" by pliablepixels at some point in the future (https://github.com/pliablepixels/mlapi).
+
+Things might be broken, this is still a WIP.
+
+----
+
 ## Zoneminder Docker
 (Current version: 1.34)
 
